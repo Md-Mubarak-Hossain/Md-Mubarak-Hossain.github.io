@@ -1,0 +1,72 @@
+<html>
+        <head>
+           <title>Mubarak Hossain</title>
+		    <style type="text/css">
+			h1{
+			         color:blue;
+					 text-align:center;
+					 text-decoration:underline;
+			
+			  }
+			
+			
+			</style>
+        </head>
+		
+		
+                  <body>
+                     <h1>My Resume</h1>
+					
+					 <p>Hello, Md. Mubarak Hossain.I come from Dhamrai Dhaka.At present I am in daffodil international university department Of Software Engineering.I Completed My 
+					 SSC In 2014 and HSC 2016.Now I am In six Semister</P> 
+                     <h2>Objective</h2>
+                     <p>I am looking forward to join a progressive organization. I am Strong team builder and leader. 
+					 I have high level of personal morals and integrity. I am Goal oriented, self-motivated and committed to the successful outcome of the project. 
+					 I am willing to work hard and have a great desire to learn.</p>
+                     <h2>Skills</h2>
+                   <ul>
+				        <li> C programming </li>
+				        <li> Java </li>
+				        <li> Object oriented programming</li>
+				        <li>Sql</li>
+				        <li>Python</li>
+				        <li>Oracle</li>
+				  
+				  </ul>					 
+                      
+					  <h2> Soft Skills</h2>
+                   <ul>
+				       <li> Time Management </li>
+				       <li> Direct client communication</li>
+				       <li>Team work</li>
+				       <li>software development</li>
+				  </ul>
+                     <h2>Academic Project</h2>
+                     <ul>
+					     <li> Employment Management System-5th semister(made in java and oop)</li>
+                          <li>Hostle Management System-3rd semester(made in C)</li>
+
+					 
+                     </ul>	
+                         <h2>Personal Quality</h2>
+                          <ul>
+                              <li>I am honest, self-motivated, highly confident, friendly & like to help other</li>
+                              <li>I can maintain good interpersonal relation and like to work in a team</li> 
+                               <li> Able to SWOT analysis</li> 
+
+                             						  
+                           </ul>
+                          <h2>Interest</h2>
+                            <ul>
+						     <li>Reading book & magazine</li> 
+                            <li>Watching Movie</li>
+                            <li>Browsing Internet and E-mail</li>
+                            <li>Interested in playing Cricket & Football</li>
+
+                            </ul>
+                           <h2>Contact</h2>
+                            <p>Mobile Number: 01938447680</p> 
+                            <p>Email: mubarakkha355@gmail.com </p>							
+
+
+                  </body>
